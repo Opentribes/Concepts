@@ -16,7 +16,7 @@ In the Future a map generator tool is required.
 ## Storage
 After generating the values, the values will be stored in a file. The filename will contain meta informations for the map. Those are the maximum widht and bytesize for values. 
 
-map_10000_4.txt = map width is 10000 and each value in the file is 4 character long. with those values you can read very performant the specific section of a map.
+map_10000_10000_4.txt = map width is 10000, height is 10000 and each value in the file is 4 character long. with those values you can read very performant the specific section of a map.
 
 ## Display
 
