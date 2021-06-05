@@ -20,7 +20,12 @@ How far away fom the center will be calculated based on game server start. At th
 
 The time should not be used as a linear measurement, otherwise players which are joined latly will be placed far away from everyone. The amount of player should be a factor as well, if a new server is crated many players might join and since in the center there is not that much space the player has to be placed further away.
 
+Next to the new Player Village some random NPC Villages and Hideouts will be placed so we can provide first battle experience
+
 ## Deletion
 
-## City view
+If a player deletes his account due to inactivity or manually all his cities become NPC VIllages
+
+
+
 
