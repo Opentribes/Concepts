@@ -26,6 +26,10 @@ Next to the new Player Village some random NPC Villages and Hideouts will be pla
 
 If a player deletes his account due to inactivity or manually all his cities become NPC VIllages
 
+## Overview
+
+Once a city is created the player can see the city overview with a specific URL.
+More details [here](Overview/index.md)
 
 
 
