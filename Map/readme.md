@@ -21,4 +21,4 @@ map_10000_10000_4.txt = map width is 10000, height is 10000 and each value in th
 ## Display
 
 The map will be display in Isometric fashion
-![[isogrid.png]]
+![[../images/isogrid.jpg]]
