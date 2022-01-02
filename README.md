@@ -12,7 +12,7 @@ The Core features are defined in the specific directories. This Features will be
 The Core Project MUST NOT have any dependencies to an external Framework. The Code should be developed Framework Agnostic.
 
 ## Sections
-### [Map](Map/readme)
-### [Resources](Resources/readme)
-### [Auth](Auth/readme)
-### [City](City/readme)
+### [Map](Map)
+### [Resources](Resources)
+### [Auth](Auth)
+### [City](City)
