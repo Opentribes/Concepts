@@ -29,7 +29,7 @@ If a player deletes his account due to inactivity or manually all his cities bec
 ## Overview
 
 Once a city is created the player can see the city overview with a specific URL.
-More details [here](OpenTribes/City/Overview/readme.md)
+More details [here](City/Overview/readme.md)
 
 
 
