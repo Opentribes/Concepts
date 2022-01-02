@@ -12,6 +12,7 @@ The Core features are defined in the specific directories. This Features will be
 The Core Project MUST NOT have any dependencies to an external Framework. The Code should be developed Framework Agnostic.
 
 ## Sections
+## [Clickable Wireframes](https://opentribes.github.io/Concepts/Wireframes/)
 ### [Map](Map)
 ### [Resources](Resources)
 ### [Auth](Auth)
