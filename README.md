@@ -10,3 +10,9 @@ The settings are in medieval style.
 The Core features are defined in the specific directories. This Features will be developed inside the [Core Project](https://github.com/Opentribes/Core) 
 
 The Core Project MUST NOT have any dependencies to an external Framework. The Code should be developed Framework Agnostic.
+
+## Sections
+### [Map](Map/readme)
+### [Resources](Resources/readme)
+### [Auth](Auth/readme)
+### [City](City/readme)
